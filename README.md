@@ -7,59 +7,84 @@ Welcome to my GitHub! I'm a passionate **MERN Stack Developer** with expertise i
 ## 🚀 About Me
 
 - 🔭 I’m currently working on building full-stack web applications using the **MERN stack** (MongoDB, Express, React, Node.js).
+
 - 🌱 I’m always learning and improving my skills in **Next.js**, **Redux Toolkit**, **Tailwind CSS**, and more!
+
 - 👯 I want to collaborate with developers and contribute to exciting open-source projects.
+
 - 💬 Ask me about **React**, **Next.js**, **Express**, **Redux**, **Tailwind CSS**, or anything related to full-stack development.
-- 📫 How to reach me: [mudasir.bhatti358@gmail.com] or via my [LinkedIn](https://www.linkedin.com/in/mudasir-bashir/) profile.
+
+- 📫 How to reach me: [mudasir.bhatti358@gmail.com](mailto:mudasir.bhatti358@gmail.com) or via my [LinkedIn](https://www.linkedin.com/in/mudasir-bashir/) profile.
 
 ---
 
 ## ⚡ Skills
 
 - **Frontend**:
-  - ⚛️ **React.js**, **Next.js**, **Redux Toolkit**, **HTML5**, **CSS3**, **Java Script**, **Tailwind CSS**,**SCSS**
+
+  - ⚛️ **React.js**, **Next.js**, **Redux Toolkit**, **TanStack Query**, **HTML5**, **CSS3**, **JavaScript**, **Tailwind CSS**, **SCSS**
     
 - **Backend**:
+
   - 🖥️ **Node.js**, **Express.js**
  
 - **Database**:
+
   - 🗄️ **MongoDB**, **Mongoose**
  
 - **Tools & Other**:
+
   - ⚙️ **Git** | **GitHub** | **NPM** | **Webpack** | **VSCode** | **Postman**
+
   - 🌐 **RESTful APIs** | **JWT Authentication**
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-- **Frontend**:
-  - React.js, Next.js, Redux Toolkit, Tailwind CSS, HTML5, CSS3, JavaScript,
+### Frontend:
+
+![React](https://img.shields.io/badge/-React-61dafb?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-764abc?style=for-the-badge&logo=redux&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38b2ac?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-e34f26?style=for-the-badge&logo=html5&logoColor=white)
+![SCSS](https://img.shields.io/badge/-SCSS-cc6699?style=for-the-badge&logo=sass&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572b6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-ffda44?style=for-the-badge&logo=javascript&logoColor=black)
     
-- **Backend**:
-  - Express.js, Node.js, RESTful API Development
+### Backend:
+
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
     
-- **Database**:
-  - MongoDB, Mongoose
+### Database:
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-4db33d?style=for-the-badge&logo=mongodb&logoColor=white)
  
-- **Version Control**:
-  - Git, GitHub
+### Version Control:
+
+![Git](https://img.shields.io/badge/-Git-f05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
     
-- **Others**:
-  - Docker, Postman, JWT Authentication, Nginx
+### Others:
+
+![VS Code](https://img.shields.io/badge/-VS%20Code-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  - Postman, JWT Authentication, Nginx
 
 ---
 
+## 📈 GitHub Stats
 
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MudasirBashirBhatti&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MudasirBashirBhatti&layout=compact&theme=radical)
 
 ---
 
 ## 📈 GitHub Contributions
 
-![Your GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical)
+![Your GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=MudasirBashirBhatti&theme=radical)
 
 ---
 
@@ -73,12 +98,6 @@ Welcome to my GitHub! I'm a passionate **MERN Stack Developer** with expertise i
 ## 🙌 Contributions & Open Source
 
 I believe in the power of **open-source** and regularly contribute to projects. If you have any projects that I can help with or if you'd like to collaborate, feel free to reach out!
-
----
-
-## ✍️ Fun Fact
-
-I love learning about **new technologies** and **developer tools**. In my free time, you can find me exploring different **tech blogs**, contributing to **open-source projects**, or creating my own personal projects. I'm always excited to solve challenging problems and push my limits as a developer.
 
 ---
 
