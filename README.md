@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Mudasir Bashir!
 
-Welcome to my GitHub! I'm a passionate **MERN Stack Developer** with expertise in building modern web applications. I love creating efficient, scalable and user-friendly solutions using the latest technologies. Let's connect and collaborate!
+Welcome to my GitHub! I'm a passionate **MERN/PERN Stack Developer** with expertise in building modern web applications. I love creating efficient, scalable and user-friendly solutions using the latest technologies. Let's connect and collaborate!
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on building full-stack web applications using the **MERN stack** (MongoDB, Express, React, Node.js).
+- 🔭 I’m currently working on building full-stack web applications using the **MERN/PERN stack** (MongoDB/PostgreSql, Express, React/Next, Node.js).
 
 - 🌱 I’m always learning and improving my skills in **Next.js**, **Redux Toolkit**, **Tailwind CSS**, and more!
 
@@ -30,7 +30,7 @@ Welcome to my GitHub! I'm a passionate **MERN Stack Developer** with expertise i
  
 - **Database**:
 
-  - 🗄️ **MongoDB**, **Mongoose**
+  - 🗄️ **MongoDB**, **PostgreSql**
  
 - **Tools & Other**:
 
