@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm a passionate **MERN/PERN Stack Developer** with expert
 
 ---
 
-## 🚀 About Me
+## About Me
 
 - 🔭 I’m currently working on building full-stack web applications using the **MERN/PERN stack** (MongoDB/PostgreSql, Express, React/Next, Node.js).
 
