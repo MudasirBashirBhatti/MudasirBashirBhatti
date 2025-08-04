@@ -22,7 +22,7 @@ Welcome to my GitHub! I'm a passionate **MERN/PERN Stack Developer** with expert
 
 - **Frontend**:
 
-  - ⚛️ **React.js**, **Next.js**, **TypeScript** **Redux Toolkit**, **TanStack Query**, **HTML5**, **CSS3**, **JavaScript**, **Tailwind CSS**, **SCSS**
+  - ⚛️ **React.js**, **Next.js**, **TypeScript**, **Redux Toolkit**, **TanStack Query**, **HTML5**, **CSS3**, **JavaScript**, **Tailwind CSS**, **SCSS**
     
 - **Backend**:
 
