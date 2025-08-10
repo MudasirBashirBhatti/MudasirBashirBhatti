@@ -6,11 +6,11 @@ Welcome to my GitHub! I'm a passionate **MERN/PERN Stack Developer** with expert
 
 ## About Me
 
-- 🔭 I’m currently working on building full-stack web applications using the **MERN/PERN stack** (MongoDB/PostgreSQL, Express, React/Next, Node.js).
+-  I’m currently working on building full-stack web applications using the **MERN/PERN stack** (MongoDB/PostgreSQL, Express, React/Next, Node.js).
 
 - I’m always learning and improving my skills in **Next.js**, **Redux Toolkit**, **Typescript**, **Tailwind CSS**, and more!
 
-- 👯 I want to collaborate with developers and contribute to exciting open-source projects.
+- I want to collaborate with developers and contribute to exciting open-source projects.
 
 - 💬 Ask me about **React**, **Next.js**, **Express**, **Redux**, **Tailwind CSS**, or anything related to full-stack development.
 
