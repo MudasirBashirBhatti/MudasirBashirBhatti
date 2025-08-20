@@ -34,7 +34,7 @@ Welcome to my GitHub! I'm a passionate **MERN/PERN Stack Developer** with expert
  
 - **Tools & Other**:
 
-  - ⚙️ **Git** | **GitHub** | **NPM** | **VSCode** | **Postman**
+  - ⚙️ **Git** | **GitHub** | **VSCode** | **Postman**
 
   - 🌐 **RESTful APIs** | **JWT Authentication**
 
