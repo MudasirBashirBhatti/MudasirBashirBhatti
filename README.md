@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mudasir Bashir!
+# 👋 Hi, I'm Mudasir Bashir
 
 Welcome to my GitHub! I'm a passionate **MERN/PERN Stack Developer** with expertise in building modern web applications. I love creating efficient, scalable and user-friendly solutions using the latest technologies. Let's connect and collaborate!
 
