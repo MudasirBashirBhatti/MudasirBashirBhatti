@@ -18,7 +18,7 @@ Welcome to my GitHub! I'm a passionate **MERN/PERN Stack Developer** with expert
 
 ---
 
-## ⚡ Skills
+## ⚡ Skills & Expertise
 
 - **Frontend**:
 
