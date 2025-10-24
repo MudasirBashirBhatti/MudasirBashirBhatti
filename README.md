@@ -95,7 +95,7 @@ Welcome to my GitHub! I'm a passionate **MERN/PERN Stack Developer** with expert
 
 ---
 
-## 🙌 Contributions & Open Source
+## 🙌 Contributions
 
 I believe in the power of **open-source** and regularly contribute to projects. If you have any projects that I can help with or if you'd like to collaborate, feel free to reach out!
 
